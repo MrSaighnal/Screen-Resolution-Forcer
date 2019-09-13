@@ -11,7 +11,6 @@ git clone https://github.com/MrSaighnal/Screen-Resolution-Forcer.git
 cd Screen-Resolution-Forcer 
 sudo chmod +x screen-resolution-forcer.sh
 ./screen-resolution-forcer.sh
-echo "new resolution 1920x1080"
 
 ```
 Enjoy it
