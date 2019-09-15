@@ -8,8 +8,11 @@ Are you using a Linux system into a Virtual Machine with Guest Additions install
 from your shell on your virtualized system
 ```bash
 git clone https://github.com/MrSaighnal/Screen-Resolution-Forcer.git
+
 cd Screen-Resolution-Forcer 
+
 sudo chmod +x screen-resolution-forcer.sh
+
 ./screen-resolution-forcer.sh
 
 ```
